@@ -1,0 +1,35 @@
+〓〓〓〓 AI Agent본격 시작 〓〓〓〓
+
+☆ 세션 구성 ★
+1，오리엔테이션  ／  팀 결정, 주제 후보
+
+2，기획 & 일정 수립  ／  기획서, WBS, 일정표
+
+3，설계 & 환경 구축  ／  아키텍처, 리포지토리
+
+4，구현 1 + 중간 발표  ／  작동하는 프로토타입
+
+5，구현 2(테스트/디버깅)  ／  핵심 기능 완성
+
+6，마감 & 배포  ／  빌드/배포, 문서화
+
+7，최종 발표 평가  ／  발표 ＋ Q&A
+
+
+
+
+▤ 도구 스택 ▤
+
+AI Agent  ----->  Claude Code, Cursor, GitHub Copilot, Antigravity
+
+
+모바일 프레임워크  ----->  Flutter, React Native, Native
+
+
+협업/ 형상관리  ----->  Git ㄷ GitHub/GitLab
+
+
+문서  ----->  Markdown (Marp 슬라이드), Mermaid 다이어그램
+
+
+일정 관리  ----->  Linear, Notion, GitHub Projects
